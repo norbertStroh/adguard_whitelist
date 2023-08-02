@@ -269,3 +269,4 @@ www.msftconnecttest.com
 @@||global.market.xiaomi.com^$important
 #southpark
 @@||southpark.de^$jsinject
+@@||southpark.de^$important

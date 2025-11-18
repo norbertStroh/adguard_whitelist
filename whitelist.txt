@@ -350,6 +350,7 @@ tracking-protection.cdn.mozilla.net
 
 #Playstation 5 "Recently Played Games" and Trophies
 telemetry-console.api.playstation.com
+smetrics.aem.playstation.com
 
 #Cannon Printers
 gdlp01.c-wss.com

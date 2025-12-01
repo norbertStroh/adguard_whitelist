@@ -456,3 +456,6 @@ pagead2.googlesyndication.com
 
 #Newspaper#
 www.derstandard.at
+
+#jdownloader2
+update.appwork.org
